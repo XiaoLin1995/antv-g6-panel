@@ -2,7 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/grafana/grafana/master/docs/sources/developers/plugins/plugin.schema.json",
   "type": "panel",
   "name": "AntV G6",
-  "id": "xiaolin-antv-g-6-panel",
+  "id": "xiaolinzhu-antv-g6-panel",
   "info": {
     "description": "AntV-G6 Panel for Grafana",
     "author": {
