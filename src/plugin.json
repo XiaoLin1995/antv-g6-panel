@@ -2,7 +2,7 @@
   "$schema": "https://raw.githubusercontent.com/grafana/grafana/master/docs/sources/developers/plugins/plugin.schema.json",
   "type": "panel",
   "name": "AntV G6",
-  "id": "xiaolinzhu-antv-g6-panel",
+  "id": "xiaolinzhu-antvg6-panel",
   "info": {
     "description": "AntV-G6 Panel for Grafana",
     "author": {
@@ -26,7 +26,12 @@
         "url": "https://github.com/grafana/grafana-starter-panel/blob/master/LICENSE"
       }
     ],
-    "screenshots": [],
+    "screenshots": [
+      {
+        "name": "screenshot",
+        "path": "img/screenshot.png"
+      }
+    ],
     "version": "%VERSION%",
     "updated": "%TODAY%"
   },
